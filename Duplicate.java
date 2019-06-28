@@ -58,5 +58,5 @@ class Duplicate
 		{
 			System.out.println("unique");
 		}
-	}
+	} 
 }
